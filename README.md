@@ -1,5 +1,5 @@
 # Single-Page-Movie-App
-# NETFLIX-CLONE-APP
+
 # project-documentation
 
 <p align="center">
